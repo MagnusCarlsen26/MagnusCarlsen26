@@ -1,44 +1,45 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=MagnusCarlsen26)
-
-**MagnusCarlsen26/MagnusCarlsen26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-<a href="https://codeforces.com/profile/_magnus_carlsen_" target="_blank">
-<img src="https://img.shields.io/badge/CodeForces--darkgreen" ;></img></a>
-</a> 
-<a href="https://www.codechef.com/users/khushal2003" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef--blue" />
-</a>
-</a> 
-
-<br/> 
-
-
-## 🚀 Languages and Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="44" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="html" height="44" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="dart" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" alt="latex" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="tensorflow" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MagnusCarlsen26&color=brightgreen" alt="Profile views" />
+  &nbsp;&nbsp;
+  <a href="mailto:khushal.sindhav26@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-khushal.sindhav26%40gmail.com-blue?style=flat-square" /></a>
+  &nbsp;&nbsp;
+  <img alt="Status" src="https://img.shields.io/badge/status-🚧%20Building%20useless%20shit-orange?style=flat-square" />
 </p>
 
-## 📊 Github Stats
+---
 
-[![Khushal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MagnusCarlsen26&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=github-dark-blue)](https://git.io/streak-stats)\
-![Khushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagnusCarlsen26&show_icons=true&theme=github_dark&hide_border=True)\
+<p align="center">
+  <!-- Replace/add icons as you prefer -->
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+</p>
 
-## ❤ Profile Views and Followers
-![](https://komarev.com/ghpvc/?username=MagnusCarlsen26&color=blue)
+---
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<!-- <p align="center"> -->
+  <!-- Top languages -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusCarlsen26&layout=compact&theme=radical" alt="Top Languages" /> -->
+
+  <!-- Overall stats -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=MagnusCarlsen26&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" /> -->
+<!-- </p> -->
+
+<p align="center">
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MagnusCarlsen26&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+![github contribution grid snake animation](https://raw.githubusercontent.com/MagnusCarlsen26/MagnusCarlsen26/output/github-contribution-grid-snake.svg)
+
+
+---
+
+<p align="center">
+    Contact me to build useless shit.
+</p>
