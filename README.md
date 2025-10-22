@@ -35,10 +35,6 @@
 </p>
 
 ---
-![github contribution grid snake animation](https://raw.githubusercontent.com/MagnusCarlsen26/MagnusCarlsen26/output/github-contribution-grid-snake.svg)
-
-
----
 
 <p align="center">
     Contact me to build useless shit.
